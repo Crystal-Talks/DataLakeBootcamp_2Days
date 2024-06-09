@@ -1,4 +1,4 @@
-# Data Lake Bootcamp: Building Reliable Data Lakes in 3 Weeks
+# Data Lake Bootcamp: Building Reliable Data Lakes
 
 https://www.oreilly.com/live-events/data-lake-bootcamp/0636920095503/0636920095502/
 
